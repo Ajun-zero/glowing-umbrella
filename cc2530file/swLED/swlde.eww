@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\..\KeyScan\KeyScan.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\SWLED.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\sw_LED\swled.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+
