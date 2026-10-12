@@ -1,0 +1,12 @@
+import turtle as t
+t.speed(0)
+t.delay(100)
+t.color('red')
+t.begin_fill()
+t.left(140)
+t.fd(180)
+t.circle(-90,200)
+t.left(120)
+t.circle(-90,200)
+t.fd(180)
+t.done()
